@@ -1,1 +1,3 @@
 # Genetic-analysis-of-Bacteria
+In this project we have done genetic analysis of bacteria. We were given a dataset that shows DNA descriptions and tells which bacteria it is. We have developed several supervised machine learning models for classification. Two models of Logistic Regression and two models of Support Vector Classification. We have witnessed that the models of support vector classification work better than logistic regression in this particular case. 
+We have used Python for this data analysis and utilized data science libraries like Pandas, Numpy, Sci-kit Learn, Matplotlib, Seaborn etc. 
